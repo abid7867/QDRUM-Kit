@@ -9,6 +9,9 @@ Welcome to QDRUM Kit, a simple drum kit web application built using HTML, CSS, a
 ## QDRUM Kit LINK
 [[Check out the live QDRUM Kit here](https://abid7867.github.io/QDRUM-Kit/)]
 
+## QDRUM Kit LINK on vercel
+[[Check out the live QDRUM Kit on vercel](https://qdrum-kit.vercel.app/)]
+
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
