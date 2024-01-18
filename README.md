@@ -6,10 +6,10 @@ Welcome to QDRUM Kit, a simple drum kit web application built using HTML, CSS, a
 - **Interactive Drum Kit:** Click on the drum images to produce sounds associated with each element.
 - **Responsive Design:** The application is designed to work well on various screen sizes.
 
-## Demo
-[Check out the live demo here](#) [Replace with your demo link]
+## QDRUM Kit LINK
+[[Check out the live QDRUM Kit here](https://abid7867.github.io/QDRUM-Kit/)]
 
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/QDRUM-Kit.git
+   git clone https://github.com/abid7867/QDRUM-Kit.git
